@@ -1,0 +1,6 @@
+build
+cloudflarepy.egg-info
+dist
+__pycache__
+test
+.env
